@@ -1,18 +1,1 @@
 
-public class PalimDr{
-public static void main(String[] args){
-int a=212, r, b=0;
-int t=a;
-while(a>0){
-r=a%10;
-a=a/10;
-b=b*10+r;
-}
-System.out.print(b);
-if(t==b){
-System.out.print("its a plaimdrome");
-}
-else{
-System.out.print("its not a plaimdrome");
-}
-}}
