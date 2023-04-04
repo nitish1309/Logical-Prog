@@ -1,4 +1,4 @@
-
+//find duplicate char in string
 public class DupString {
 
 	

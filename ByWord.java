@@ -1,4 +1,5 @@
 
+//Reverse by word to word
 public class ByWord {
 public static void main(String[] args) {
 	String str= "Hello Welcome How are You";

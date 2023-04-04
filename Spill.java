@@ -1,4 +1,4 @@
-
+//split char num string
 public class Spill {
 	
 	static void SpStr(String str){

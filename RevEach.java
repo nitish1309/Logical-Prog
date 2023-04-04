@@ -1,5 +1,5 @@
 
-
+//reverse by word to word
 public class RevEach {
 
 	public static void main(String[] args) {

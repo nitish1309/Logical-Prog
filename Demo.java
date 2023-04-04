@@ -1,4 +1,4 @@
-
+//extract num and integer
 public class Demo {
 	public static void main(String[] args){
 		String nms= "Nitish57657847Shrivastav";

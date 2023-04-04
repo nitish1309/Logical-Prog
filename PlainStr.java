@@ -1,4 +1,4 @@
-
+//reverse the string
 public class PlainStr {
 
 	public static void main(String[] args) {

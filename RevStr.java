@@ -1,7 +1,7 @@
-
+//Reverse
 public class RevStr {
 public static void main(String[] args) {
-	long st = 11100000;
+	String st = "Welcome";
 	StringBuilder sb= new StringBuilder();
 		sb.append(st);
 		sb.reverse();
